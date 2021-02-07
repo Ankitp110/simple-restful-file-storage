@@ -21,7 +21,7 @@ repositories {
      maven { url "http://repo.maven.apache.org/maven2" }
 }
 dependencies {
-    compile group: 'org.apache.camel', name: 'camel-core', version:'2.16.0'
+    //compile group: 'org.apache.camel', name: 'camel-core', version:'2.16.0'
     compile group: 'org.apache.camel', name: 'camel-spring', version:'2.16.0'
     compile group: 'org.apache.camel', name: 'camel-jetty', version:'2.16.0'
     compile group: 'org.apache.camel', name: 'camel-ftp', version:'2.16.0'
