@@ -14,11 +14,11 @@ targetCompatibility = 1.6
 
 repositories {
         
-     maven { url "http://repo.fusesource.com/nexus/content/repositories/releases" }
-     maven { url "http://repo.fusesource.com/nexus/content/groups/ea" }
-     maven { url "http://repo.fusesource.com/nexus/content/repositories/snapshots" }
-     maven { url "http://repo1.maven.org/maven2" }
-     maven { url "http://repo.maven.apache.org/maven2" }
+     //maven { url "http://repo.fusesource.com/nexus/content/repositories/releases" }
+     //maven { url "http://repo.fusesource.com/nexus/content/groups/ea" }
+     //maven { url "http://repo.fusesource.com/nexus/content/repositories/snapshots" }
+     //maven { url "http://repo1.maven.org/maven2" }
+     //maven { url "http://repo.maven.apache.org/maven2" }
 }
 dependencies {
     //compile group: 'org.apache.camel', name: 'camel-core', version:'2.16.0'
